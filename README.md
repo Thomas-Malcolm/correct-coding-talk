@@ -1,6 +1,6 @@
 # Writing Code Without Writing Code
 
-Talk for a [UQ Computing Society](https://uqcs.org) and [MSS](https://uqmss.org/) collaboration event, delivered on 21/05/2022.
+Talk for a [UQ Computing Society](https://uqcs.org) and [MSS](https://uqmss.org/) collaboration event, delivered on 20/05/2022.
 
 ## What?
 
